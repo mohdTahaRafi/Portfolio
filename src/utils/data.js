@@ -9,7 +9,7 @@ import { SiMongodb } from "react-icons/si";
 
 export const PROFILE_DATA = {
   profilePicture: "https://avatars.githubusercontent.com/u/61537492?v=4",
-  name: "Amaan Siddiquie",
+  name: "Mohd Taha Rafi",
   tagline: "Passionate Full Stack Developer with 6 months of experience in building responsive web applications using modern technologies. Proficient in both front-end and back-end development, with a strong focus on creating clean, efficient, and scalable code. Skilled in collaborating with cross-functional teams to deliver high-quality software solutions.",
   jobTitle: "Full Stack Developer",
   location: "India",
@@ -27,9 +27,9 @@ export const PROFILE_DATA = {
     "Git",
     "Redux",
   ],
-  email: "amaan.siddiquie@example.com",
+  email: "taha.rafi@example.com",
   phone: "+91 1234567890",
-  website: "https://amaansiddiquie.netlify.app/",
+  website: "https://taharafi.netlify.app/",
 };
 
 export const SKILLS = [
@@ -105,7 +105,7 @@ export const WORK_EXPERIENCE = [
 ];
 
 export const ABOUT_ME_DATA = {
-    introduction: "Hi, I'm Amaan Siddiquie, a Full Stack Developer based in India. I have been working with React.js, Node.js, and MongoDB for 6 months now. I have built multiple projects using these technologies. I am passionate about building scalable and efficient web applications.",
+    introduction: "Hi, I'm Mohd Taha Rafi, a Full Stack Developer based in India. I have been working with React.js, Node.js, and MongoDB for 6 months now. I have built multiple projects using these technologies. I am passionate about building scalable and efficient web applications.",
     background: "I have a Bachelor's degree in Computer Science from XYZ University. I have built multiple projects using React.js, Node.js, and MongoDB. I am passionate about building scalable and efficient web applications.",
     skills: "I am proficient in React.js, Node.js, Express.js, MongoDB, Tailwind CSS, HTML, CSS, JavaScript, Restful APIs, Git, and Redux.",
     projects: "I have built multiple projects using React.js, Node.js, and MongoDB. Some of the projects that I have built are: Project 1, Project 2, Project 3.",
@@ -116,6 +116,5 @@ export const ABOUT_ME_DATA = {
         yearsOfExperience: "6",
         projectsCompleted: "10",
         clientsWorkedWith: "5",
-
     },
 };
